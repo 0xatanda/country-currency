@@ -29,30 +29,6 @@ A simple RESTful API built with **Go (Golang)**, **Gin**, and **GORM** that fetc
 
 ---
 
-## 📁 Project Structure
-
-```
-
-country-currency-api/
-├── cmd/
-│   └── main.go              # App entrypoint
-├── internal/
-│   ├── database/
-│   │   └── db.go            # Database connection logic
-│   ├── handlers/
-│   │   └── country_handler.go # HTTP request handlers
-│   ├── models/
-│   │   └── country.go       # Country model definition
-│   └── services/
-│       └── country_service.go # Business logic for fetching/storing data
-├── go.mod
-├── go.sum
-└── README.md
-
-````
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
