@@ -1,9 +1,3 @@
-Perfect ✅ — here’s a **clean, production-style `README.md`** you can drop into your project root for your **Country Currency API** built with **Go, Gin, GORM, and PostgreSQL**.
-
-It’s structured exactly how internship evaluators like it — clear setup, usage, testing, and commit info 👇
-
----
-
 ```markdown
 # 🌍 Country Currency API
 
