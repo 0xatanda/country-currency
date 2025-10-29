@@ -34,8 +34,8 @@ A simple RESTful API built with **Go (Golang)**, **Gin**, and **GORM** that fetc
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/country-currency-api.git
-cd country-currency-api
+git clone https://github.com/0xatanda/country-currency-api.git
+cd country-currency
 ````
 
 ### 2️⃣ Install dependencies
@@ -165,8 +165,8 @@ git push origin main
 
 **Atanda Nafiu**
 DevOps & Backend Developer
-📧 [Your Email]
-🔗 [Your GitHub](https://github.com/<your-username>)
+📧 [atanda0x@gmail.com]
+🔗 [GitHub](https://github.com/0xatanda)
 
 ---
 
